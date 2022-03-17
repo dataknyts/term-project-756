@@ -1,4 +1,4 @@
-# term-project-756
+# CMPT756: Term-Project
 
 ### Pre-requisite Setup
 
